@@ -4,7 +4,7 @@ title: "Sertai Takaful Dan Berpeluang Menangi Mercedes Atau BMW Setiap Bulan!"
 date: 2015-07-23
 ---
 
-# Pilihlah Takaful Yang Menguntungkan
+## Pilihlah Takaful Yang Menguntungkan
 
 Di Malaysia, ada 11 syarikat Takaful yang berada dibawah seliaan Bank Negara Malaysia. Sila rujuk senarai syarikat tersebut di sini: [Syarikat Takaful di Malaysia](http://www.bnm.gov.my/index.php?ch=li&cat=insurance&type=TKF&fund=0&cu=0)
 
