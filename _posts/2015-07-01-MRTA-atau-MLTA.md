@@ -7,26 +7,26 @@ date: 2015-07-01
 
 Ketahui bagaimana dengan menggunakan satu fungsi Takaful iaitu MLTT untuk melindungi hartanah anda serta dapatkan cash jika tiada apa-apa berlaku kepada anda.
     					
-## Proses ringkas membeli rumah.
+## Proses ringkas membeli rumah
     					
-Untuk membeli rumah secara pinjaman ni, antara prosesnya adalah:
+Untuk membeli rumah secara pinjaman, antara prosesnya adalah:
 * Apply loan
 * Lawyer fee / S&amp;P    				
 * Insuran atau Takaful
     					
-###Apply loan
+### Apply loan
     					
 Nak apply loan ni, pergilah seberapa banyak bank yang boleh untuk dapatkan kadar bayaran bulanan yang tidak	membebankan kita. Kalau malas, boleh pergi ke website imoney.my atau ringgitplus.com untuk bandingkan dia punya 'interest'. 
 
 Lagi kurang interestnya lagi sikit la kita kena bayar bank. Interest ni takda dalam perbankan Islam. Perbankan Islam dia gunakan "profit rate" atau kadar keuntungan bank.
 
-###Lawyer fee / S&P
+### Lawyer fee / S&P
 
 Lawyer fee pulak adalah kos yang berkaitan dengan urusan dokumentasi pinjaman perumahan, pembelian rumah dan segala kerja berkaitan. Biasanya bank ada panel lawyer dia sendiri. Terpulang kepada kita nak gunakan lawyer bank atau lawyer kita sendiri.
 
 Kos lawyer fee ni pun boleh kira kos tetap dah. Tak boleh nak ubah melainkan kita dapat ayat lawyer tu untuk kurang kosnya. Tapi kos ini memang dah diregulated dah. Payah nak dapat diskaun lawyer fee ni.
 						
-###Insuran atau Takaful
+### Insuran atau Takaful
     					
 Dan perkara yang paling penting tapi dipandang remeh oleh pembeli adalah insuran. Tetapi insuran ini penting untuk kita sebagai pembeli supaya rumah yang dibeli itu akan tetap jadi milik kita jika kita meninggal dunia atau cacat kekal walaupun kita tidak habis lagi bayar hutang / pinjaman bank yang kita buat semasa beli rumah tersebut.
 						
