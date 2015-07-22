@@ -98,6 +98,7 @@ Perbandingan boleh dibuat begini
 </tbody>
 </table>  			
     				    			
+
 Nampak tak bezanya antara MRTT dengan MLTT? untung ke untung MLTT ni?
 
 Jadi, bila nak buat pinjaman bank, pastikan anda jumpa saya dulu untuk saya terangkan lebih lanjut MLTT ini. Selepas tu, pergi ke bank dan nyatakan anda tidak mahu MRTA sebab anda sudah ada MLTT. 
