@@ -56,48 +56,47 @@ Contoh bagaimana dengan MLTT ini kita / waris kita boleh dapat rumah dan duit. S
 
 Perbandingan boleh dibuat begini
     			    					
-						<table class="mdl-data-table mdl-js-data-table">
-							<thead>
-								<tr>
-									<td class="mdl-data-table__cell--non-numeric">Perkara</td>
-									<td class="mdl-data-table__cell--non-numeric">MLTT</td>
-									<td class="mdl-data-table__cell--non-numeric">MRTT</td>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td class="mdl-data-table__cell--non-numeric">Harga rumah</td>
-									<td class="mdl-data-table__cell--non-numeric">RM 500k</td>
-									<td class="mdl-data-table__cell--non-numeric">RM 500k</td>
-								</tr>
-								<tr>
-									<td class="mdl-data-table__cell--non-numeric">Insuran</td>
-									<td class="mdl-data-table__cell--non-numeric">anggaran RM15k dimasukkan dalam pinjaman bank</td>
-									<td class="mdl-data-table__cell--non-numeric">anggaran RM250 bayar setiap bulan ke syarikat takaful</td>
-								</tr>
-								<tr>
-									<td class="mdl-data-table__cell--non-numeric">Jika:<br>
-									(i) meninggal selepas 3 tahun</td>
-									<td class="mdl-data-table__cell--non-numeric"><br>baki pinjaman: RM452k dilupuskan bank</td>
-									<td class="mdl-data-table__cell--non-numeric"><br>waris dapat RM500k, bayar baki pinjaman RM452k, baki RM48k lagi jadi milik waris</td>
-								</tr>
-								<tr>
-									<td class="mdl-data-table__cell--non-numeric">(ii) meninggal selepas 20 tahun</td>
-									<td class="mdl-data-table__cell--non-numeric">baki pinjaman: RM20k dilupuskan bank</td>
-									<td class="mdl-data-table__cell--non-numeric">waris dapat RM500k, bayar baki pinjaman RM20k, baki RM480k jadi milik waris</td>
-								</tr>
-								<tr>
-									<td class="mdl-data-table__cell--non-numeric">(iii) tidak meninggal</td>
-									<td class="mdl-data-table__cell--non-numeric">dapat rumah sahaja</td>
-									<td class="mdl-data-table__cell--non-numeric">rumah dan akan dapat wang tunai dalam lingkungan RM40k-60k</td>
-								</tr>
-								<tr>
-									<td class="mdl-data-table__cell--non-numeric">(iv) nak beli rumah baru</td>
-									<td class="mdl-data-table__cell--non-numeric">kena bayar lagi MRTT</td>
-									<td class="mdl-data-table__cell--non-numeric">boleh transfer nilai perlindungan MLTT sebelum ini ke rumah baru</td>
-								</tr>
-							</tbody>
-						</table>  			
+<table class="mdl-data-table mdl-js-data-table">
+<thead>
+<tr>
+<td class="mdl-data-table__cell--non-numeric">Perkara</td>
+<td class="mdl-data-table__cell--non-numeric">MLTT</td>
+<td class="mdl-data-table__cell--non-numeric">MRTT</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="mdl-data-table__cell--non-numeric">Harga rumah</td>
+<td class="mdl-data-table__cell--non-numeric">RM 500k</td>
+<td class="mdl-data-table__cell--non-numeric">RM 500k</td>
+</tr>
+<tr>
+<td class="mdl-data-table__cell--non-numeric">Insuran</td>
+<td class="mdl-data-table__cell--non-numeric">anggaran RM15k dimasukkan dalam pinjaman bank</td>
+<td class="mdl-data-table__cell--non-numeric">anggaran RM250 bayar setiap bulan ke syarikat takaful</td>
+</tr>
+<tr>
+<td class="mdl-data-table__cell--non-numeric">Jika:<br>(i) meninggal selepas 3 tahun</td>
+<td class="mdl-data-table__cell--non-numeric"><br>baki pinjaman: RM452k dilupuskan bank</td>
+<td class="mdl-data-table__cell--non-numeric"><br>waris dapat RM500k, bayar baki pinjaman RM452k, baki RM48k lagi jadi milik waris</td>
+</tr>
+<tr>
+<td class="mdl-data-table__cell--non-numeric">(ii) meninggal selepas 20 tahun</td>
+<td class="mdl-data-table__cell--non-numeric">baki pinjaman: RM20k dilupuskan bank</td>
+<td class="mdl-data-table__cell--non-numeric">waris dapat RM500k, bayar baki pinjaman RM20k, baki RM480k jadi milik waris</td>
+</tr>
+<tr>
+<td class="mdl-data-table__cell--non-numeric">(iii) tidak meninggal</td>
+<td class="mdl-data-table__cell--non-numeric">dapat rumah sahaja</td>
+<td class="mdl-data-table__cell--non-numeric">rumah dan akan dapat wang tunai dalam lingkungan RM40k-60k</td>
+</tr>
+<tr>
+<td class="mdl-data-table__cell--non-numeric">(iv) nak beli rumah baru</td>
+<td class="mdl-data-table__cell--non-numeric">kena bayar lagi MRTT</td>
+<td class="mdl-data-table__cell--non-numeric">boleh transfer nilai perlindungan MLTT sebelum ini ke rumah baru</td>
+</tr>
+</tbody>
+</table>  			
     				    			
 Nampak tak bezanya antara MRTT dengan MLTT? untung ke untung MLTT ni?
 
