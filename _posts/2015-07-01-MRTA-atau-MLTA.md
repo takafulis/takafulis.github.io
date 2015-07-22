@@ -10,10 +10,12 @@ Ketahui bagaimana dengan menggunakan satu fungsi Takaful iaitu MLTT untuk melind
 ## Proses ringkas membeli rumah
     					
 Untuk membeli rumah secara pinjaman, antara prosesnya adalah:
-1. Apply loan
-2. Lawyer fee / S&amp;P
-3. Insuran atau Takaful
-    					
+<ul>
+<li>Apply loan</li>
+<li>Lawyer fee / S&amp;P</li>
+<li>Insuran atau Takaful</li>
+</ul>
+
 ### Apply loan
     					
 Nak apply loan ni, pergilah seberapa banyak bank yang boleh untuk dapatkan kadar bayaran bulanan yang tidak	membebankan kita. Kalau malas, boleh pergi ke website imoney.my atau ringgitplus.com untuk bandingkan dia punya 'interest'. 
