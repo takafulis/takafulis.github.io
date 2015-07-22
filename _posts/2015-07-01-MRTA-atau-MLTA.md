@@ -4,7 +4,6 @@ title: "Bagaimana Melindungi Rumah Yang Dibeli Secara Pinjaman Bank ? (Dan dapat
 date: 2015-07-01
 ---
 
-# Bagaimana Melindungi Rumah Yang Dibeli Secara Pinjaman Bank ? (Dan dapat cash...)
 
 Ketahui bagaimana dengan menggunakan satu fungsi Takaful iaitu MLTT untuk melindungi hartanah anda serta dapatkan cash jika tiada apa-apa berlaku kepada anda.
     					
