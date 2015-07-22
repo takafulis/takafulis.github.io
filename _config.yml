@@ -1,2 +1,3 @@
 name: Takafulis - Melindungi Kewangan Anda
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
