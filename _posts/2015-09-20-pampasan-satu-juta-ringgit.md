@@ -4,13 +4,13 @@ Title: "Pampasan Satu Juta Ringgit"
 Date: 2015-09-20
 ---
 
-##Pampasan Satu Juta Ringgit
+## Pampasan Satu Juta Ringgit
 
 Bayangkan anda mengalami perkara berikut:
 
-*Kematian
--Lumpuh
--Sakit kritikal
+* Kematian
+- Lumpuh
+- Sakit kritikal
 
 Pada waktu yang tidak disangka-sangka. 
 
