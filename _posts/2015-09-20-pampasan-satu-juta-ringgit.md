@@ -5,7 +5,6 @@ Date: 2015-09-20
 ---
 
 Bayangkan anda mengalami perkara berikut:
-
 Kematian
 Lumpuh
 Sakit kritikal
