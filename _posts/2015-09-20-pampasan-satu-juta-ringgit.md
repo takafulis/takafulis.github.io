@@ -46,7 +46,7 @@ Ingatlah, mati, lumpuh atau sakit boleh terjadi pada bila-bila masa tanpa diduga
 
 Anda boleh mula menabung serendah RM100 sebulan tetapi pampasannya bukanlah RM1 Juta, mungkin RM200,000 mengikut umur dan tahap kesihatan anda. 
 
-Untuk dapatkan kiraan pampasan yang tepat, boleh hubungi saya secepat mungkin di talian 013 796 1531. 
+Untuk dapatkan kiraan pampasan yang tepat, boleh juga hubungi saya secepat mungkin dengan mengisi borang di bawah. 
 
 Saya boleh tunggu anda, tapi mati tidak boleh ditangguh walau sesaat.
 
