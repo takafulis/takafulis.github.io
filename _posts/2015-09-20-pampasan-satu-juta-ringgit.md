@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2
 Title: "Pampasan Satu Juta Ringgit"
 Date: 2015-09-20
 ---
