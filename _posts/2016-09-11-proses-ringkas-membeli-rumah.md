@@ -22,7 +22,7 @@ Nak apply loan ni, pergilah seberapa banyak bank yang boleh untuk dapatkan kadar
 
 Lagi kurang interestnya lagi sikit la kita kena bayar bank. Interest ni takda dalam perbankan Islam. Perbankan Islam dia gunakan "profit rate" atau kadar keuntungan bank.
 
-### Lawyer fee / S&P
+## Lawyer fee / S&P
 
 Lawyer fee pulak adalah kos yang berkaitan dengan urusan dokumentasi pinjaman perumahan, pembelian rumah dan segala kerja berkaitan. Biasanya bank ada panel lawyer dia sendiri. Terpulang kepada kita nak gunakan lawyer bank atau lawyer kita sendiri.
 
