@@ -20,12 +20,9 @@ Untuk membeli rumah secara pinjaman, antara prosesnya adalah:
 
 ## Apply loan
 
-<section>  					
 Nak apply loan ni, pergilah seberapa banyak bank yang boleh untuk dapatkan kadar bayaran bulanan yang tidak	membebankan kita. Kalau malas, boleh pergi ke website imoney.my atau ringgitplus.com untuk bandingkan dia punya 'interest'. 
 
 Lagi kurang interestnya lagi sikit la kita kena bayar bank. Interest ni takda dalam perbankan Islam. Perbankan Islam dia gunakan "profit rate" atau kadar keuntungan bank.
-
-</section>
 
 ## Lawyer fee / S&P
 
