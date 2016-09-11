@@ -22,11 +22,15 @@ Nak apply loan ni, pergilah seberapa banyak bank yang boleh untuk dapatkan kadar
 
 Lagi kurang interestnya lagi sikit la kita kena bayar bank. Interest ni takda dalam perbankan Islam. Perbankan Islam dia gunakan "profit rate" atau kadar keuntungan bank.
 
+Untuk dapatkan cash, kena pastikan harga di surat perjanjian jual beli atau SNP adalah 10% atau lebih daripada harga kita beli. Contoh, kita beli rumah daripada owner RM450,000 tapi harga pasaran dan di SNP ditulis RM500,000. Maka, kita boleh dapat cash RM50,000.
+
+Macam mana nak buat urusan mark up loan ni, boleh tanya tuan peguam atau agen hartanah.  
+
 ## Lawyer fee / S&P
 
 Lawyer fee pulak adalah kos yang berkaitan dengan urusan dokumentasi pinjaman perumahan, pembelian rumah dan segala kerja berkaitan. Biasanya bank ada panel lawyer dia sendiri. Terpulang kepada kita nak gunakan lawyer bank atau lawyer kita sendiri.
 
-Kos lawyer fee ni pun boleh kira kos tetap dah. Tak boleh nak ubah melainkan kita dapat ayat lawyer tu untuk kurang kosnya. Tapi kos ini memang dah diregulated dah. Payah nak dapat diskaun lawyer fee ni.
+Kos lawyer fee ni pun boleh kira kos tetap dah. Tak boleh nak ubah melainkan kita dapat ayat lawyer tu untuk kurang kosnya. Tapi kos ini memang dah diregulated dah. Payah nak dapat diskaun lawyer fee ni. Boleh rujuk [website ini untuk maklumat lanjut](https://loanstreet.com.my/learning-centre/entry-costs-buying-property)
 
 ## Insuran atau Takaful
 
@@ -40,11 +44,9 @@ Insuran ni dalam bahasa bank nya adalah MRTA atau Mortgage Reduce Term Assurance
 						
 Biasanya insuran ni dibayar mengikut harga rumah yang dibeli. Contohnya, kalau rumah bernilai RM500,000, insurannya lebih kurang RM 15,000.
 						
-Dan kebanyakan pegawai bank akan masukkan kos insuran ni dalam pinjaman pokok bank kita ini. Kita yang tak tahu pasal pinjaman rumah 
-						ni, akan menurut sahaja cakap pegawai berkenaan untuk tanda tangan semua dokumen yang dia bagi.
+Dan kebanyakan pegawai bank akan masukkan kos insuran ni dalam pinjaman pokok bank kita ini. Kita yang tak tahu pasal pinjaman rumah ni, akan menurut sahaja cakap pegawai berkenaan untuk tanda tangan semua dokumen yang dia bagi.
 						
-Nampak macam bagus insuran ni, tapi ada lagi insuran yang lagi bagus. Insuran ini tidak diberitahu pegawai bank. Dan insuran ini pula 
-						menguntungkan kita puluh-puluh ribu ringgit !
+Nampak macam bagus insuran ni, tapi ada lagi insuran yang lagi bagus. Insuran ini tidak diberitahu pegawai bank. Dan insuran ini pula menguntungkan kita puluh-puluh ribu ringgit !
 						
 Insuran ini dinamakan MLTA atau Mortgage Level Term Assurance, dalam produk islamiknya MLTT atau Mortage Level Term Takaful.
 
@@ -56,55 +58,6 @@ MLTT kalau kita mati, waris dapat rumah dan duit !
 						
 Contoh bagaimana dengan MLTT ini kita / waris kita boleh dapat rumah dan duit. Situasi yang sama seperti diatas. Rumah bernilai RM500,000. Dan ditakdirkan meninggal dunia selepas 25 tahun membeli rumah. Maka, waris kita akan dapat RM500,000 yang mana dia boleh bayar baki pinjaman rumah kita dan lebihan daripada baki pinjaman tersebut adalah milik waris kita !
 
-Perbandingan boleh dibuat begini
-    			    					
-<table class="mdl-data-table mdl-js-data-table">
-<thead>
-<tr>
-<td class="mdl-data-table__cell--non-numeric">Perkara</td>
-<td class="mdl-data-table__cell--non-numeric">MLTT</td>
-<td class="mdl-data-table__cell--non-numeric">MRTT</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="mdl-data-table__cell--non-numeric">Harga rumah</td>
-<td class="mdl-data-table__cell--non-numeric">RM 500k</td>
-<td class="mdl-data-table__cell--non-numeric">RM 500k</td>
-</tr>
-<tr>
-<td class="mdl-data-table__cell--non-numeric">Insuran</td>
-<td class="mdl-data-table__cell--non-numeric">anggaran RM15k dimasukkan dalam pinjaman bank</td>
-<td class="mdl-data-table__cell--non-numeric">anggaran RM250 bayar setiap bulan ke syarikat takaful</td>
-</tr>
-<tr>
-<td class="mdl-data-table__cell--non-numeric">Jika:<br>(i) meninggal selepas 3 tahun</td>
-<td class="mdl-data-table__cell--non-numeric"><br>baki pinjaman: RM452k dilupuskan bank</td>
-<td class="mdl-data-table__cell--non-numeric"><br>waris dapat RM500k, bayar baki pinjaman RM452k, baki RM48k lagi jadi milik waris</td>
-</tr>
-<tr>
-<td class="mdl-data-table__cell--non-numeric">(ii) meninggal selepas 20 tahun</td>
-<td class="mdl-data-table__cell--non-numeric">baki pinjaman: RM20k dilupuskan bank</td>
-<td class="mdl-data-table__cell--non-numeric">waris dapat RM500k, bayar baki pinjaman RM20k, baki RM480k jadi milik waris</td>
-</tr>
-<tr>
-<td class="mdl-data-table__cell--non-numeric">(iii) tidak meninggal</td>
-<td class="mdl-data-table__cell--non-numeric">dapat rumah sahaja</td>
-<td class="mdl-data-table__cell--non-numeric">rumah dan akan dapat wang tunai dalam lingkungan RM40k-60k</td>
-</tr>
-<tr>
-<td class="mdl-data-table__cell--non-numeric">(iv) nak beli rumah baru</td>
-<td class="mdl-data-table__cell--non-numeric">kena bayar lagi MRTT</td>
-<td class="mdl-data-table__cell--non-numeric">boleh transfer nilai perlindungan MLTT sebelum ini ke rumah baru</td>
-</tr>
-</tbody>
-</table>  			
-<br/>    				    			
+Kalau hendak tahu lebih lanjut kelebihan insurans jenis MLTT berbanding dengan MRTT, boleh rujuk pautan ini.
 
-Nampak tak bezanya antara MRTT dengan MLTT? untung ke untung MLTT ni?
-
-Jadi, bila nak buat pinjaman bank, pastikan anda jumpa saya dulu untuk saya terangkan lebih lanjut MLTT ini. Selepas tu, pergi ke bank dan nyatakan anda tidak mahu MRTA sebab anda sudah ada MLTT. 
-
-MLTT ini boleh diambil sebelum anda beli rumah pun. Tiada salah. Lagi menguntungkan ada lah !
-
-Segera hubungi saya untuk melindungi hartanah anda melalui MLTT di talian 013 - 796 1531.
+Tapi kalau nak tahu cepat, hubungi kami segera untuk melindungi hartanah anda melalui MLTT di talian 011 - 1000 1321.
