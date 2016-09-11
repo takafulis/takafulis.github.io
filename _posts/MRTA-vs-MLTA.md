@@ -1,7 +1,7 @@
 ---
 layout: default3
 title: "MRTA vs MLTA (Part 1)"
-date: 2015-07-01
+date: 2016-09-11
 ---
 
 # Proses ringkas membeli rumah
