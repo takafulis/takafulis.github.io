@@ -1,12 +1,12 @@
 ---
 layout: default3
-title: "MRTA vs MLTA (Part 1)"
+title: "Proses-Ringkas-Membeli-Rumah"
 date: 2016-09-11
 ---
 
 # Proses ringkas membeli rumah
 <p class="subtitle">
-Ketahui bagaimana dengan menggunakan satu fungsi Takaful iaitu MLTT untuk melindungi hartanah anda serta dapatkan cash jika tiada apa-apa berlaku kepada anda.
+Ketahui proses ringkas untuk membeli rumah dan dapatkan cash.
 </p>
 
 Untuk membeli rumah secara pinjaman, antara prosesnya adalah:
