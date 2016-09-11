@@ -3,3 +3,4 @@ markdown: kramdown
 permalink: /artikel/:title
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
