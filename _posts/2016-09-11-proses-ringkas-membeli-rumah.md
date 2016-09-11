@@ -1,12 +1,13 @@
 ---
 layout: default3
 title: "Proses Ringkas Membeli Rumah"
+description: "Ketahui proses ringkas untuk membeli rumah dan dapatkan cash."
 date: 2016-09-11
 ---
 
 # Proses ringkas membeli rumah
 <p class="subtitle">
-Ketahui proses ringkas untuk membeli rumah dan dapatkan cash.
+{{ page.description }}
 </p>
 
 Untuk membeli rumah secara pinjaman, antara prosesnya adalah:
