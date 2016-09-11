@@ -9,14 +9,12 @@ date: 2016-09-11
 Ketahui bagaimana dengan menggunakan satu fungsi Takaful iaitu MLTT untuk melindungi hartanah anda serta dapatkan cash jika tiada apa-apa berlaku kepada anda.
 </p>
 
-<section>
 Untuk membeli rumah secara pinjaman, antara prosesnya adalah:
 <ul>
 <li>Apply loan</li>
 <li>Lawyer fee / S&amp;P</li>
 <li>Insuran atau Takaful</li>
 </ul>
-</section>
 
 ## Apply loan
 
@@ -24,17 +22,14 @@ Nak apply loan ni, pergilah seberapa banyak bank yang boleh untuk dapatkan kadar
 
 Lagi kurang interestnya lagi sikit la kita kena bayar bank. Interest ni takda dalam perbankan Islam. Perbankan Islam dia gunakan "profit rate" atau kadar keuntungan bank.
 
-## Lawyer fee / S&P
+### Lawyer fee / S&P
 
-<section>
 Lawyer fee pulak adalah kos yang berkaitan dengan urusan dokumentasi pinjaman perumahan, pembelian rumah dan segala kerja berkaitan. Biasanya bank ada panel lawyer dia sendiri. Terpulang kepada kita nak gunakan lawyer bank atau lawyer kita sendiri.
 
 Kos lawyer fee ni pun boleh kira kos tetap dah. Tak boleh nak ubah melainkan kita dapat ayat lawyer tu untuk kurang kosnya. Tapi kos ini memang dah diregulated dah. Payah nak dapat diskaun lawyer fee ni.
-</section>
 
 ## Insuran atau Takaful
 
-<section> 					
 Dan perkara yang paling penting tapi dipandang remeh oleh pembeli adalah insuran. Tetapi insuran ini penting untuk kita sebagai pembeli supaya rumah yang dibeli itu akan tetap jadi milik kita jika kita meninggal dunia atau cacat kekal walaupun kita tidak habis lagi bayar hutang / pinjaman bank yang kita buat semasa beli rumah tersebut.
 
 Contohnya, kita membuat pinjaman selama 30 tahun, ditakdirkan kita meninggal dunia selepas 25 tahun selepas membeli rumah. Dengan adanya insuran ini, rumah tersebut akan jadi milik kekal keluarga / waris kita dan mereka tidak perlu bayar baki pinjaman 5 tahun kita tu.
@@ -60,9 +55,7 @@ MRTT kalau kita mati, waris dapat rumah sahaja.
 MLTT kalau kita mati, waris dapat rumah dan duit !
 						
 Contoh bagaimana dengan MLTT ini kita / waris kita boleh dapat rumah dan duit. Situasi yang sama seperti diatas. Rumah bernilai RM500,000. Dan ditakdirkan meninggal dunia selepas 25 tahun membeli rumah. Maka, waris kita akan dapat RM500,000 yang mana dia boleh bayar baki pinjaman rumah kita dan lebihan daripada baki pinjaman tersebut adalah milik waris kita !
-</section>
 
-<section>
 Perbandingan boleh dibuat begini
     			    					
 <table class="mdl-data-table mdl-js-data-table">
@@ -107,16 +100,11 @@ Perbandingan boleh dibuat begini
 </tbody>
 </table>  			
 <br/>    				    			
-</section>
 
-<section>
 Nampak tak bezanya antara MRTT dengan MLTT? untung ke untung MLTT ni?
 
 Jadi, bila nak buat pinjaman bank, pastikan anda jumpa saya dulu untuk saya terangkan lebih lanjut MLTT ini. Selepas tu, pergi ke bank dan nyatakan anda tidak mahu MRTA sebab anda sudah ada MLTT. 
 
 MLTT ini boleh diambil sebelum anda beli rumah pun. Tiada salah. Lagi menguntungkan ada lah !
-</section>
 
-<section>
 Segera hubungi saya untuk melindungi hartanah anda melalui MLTT di talian 013 - 796 1531.
-</section>
