@@ -30,7 +30,7 @@ Macam mana nak buat urusan mark up loan ni, boleh tanya tuan peguam atau agen ha
 
 Lawyer fee pulak adalah kos yang berkaitan dengan urusan dokumentasi pinjaman perumahan, pembelian rumah dan segala kerja berkaitan. Biasanya bank ada panel lawyer dia sendiri. Terpulang kepada kita nak gunakan lawyer bank atau lawyer kita sendiri.
 
-Kos lawyer fee ni pun boleh kira kos tetap dah. Tak boleh nak ubah melainkan kita dapat ayat lawyer tu untuk kurang kosnya. Tapi kos ini memang dah diregulated dah. Payah nak dapat diskaun lawyer fee ni. Boleh rujuk [website ini untuk maklumat lanjut](https://loanstreet.com.my/learning-centre/entry-costs-buying-property)
+Kos lawyer fee ni pun boleh kira kos tetap dah. Tak boleh nak ubah melainkan kita dapat ayat lawyer tu untuk kurang kosnya. Tapi kos ini memang dah diregulated dah. Payah nak dapat diskaun lawyer fee ni. Boleh rujuk [website ini untuk maklumat lanjut.](https://loanstreet.com.my/learning-centre/entry-costs-buying-property)
 
 ## Insuran atau Takaful
 
