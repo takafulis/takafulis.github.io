@@ -1,6 +1,6 @@
 ---
 layout: default3
-title: "Proses-Ringkas-Membeli-Rumah"
+title: "Proses Ringkas Membeli Rumah"
 date: 2016-09-11
 ---
 
