@@ -272,7 +272,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             div.table-wrapper, table, table.booktabs { width: 85%; }
                             div.table-wrapper { border-right: 1px solid #efefef; }
                             img { width: 100%; } }
-input[type=text], select {
+input[type=text],[type=number], select {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
