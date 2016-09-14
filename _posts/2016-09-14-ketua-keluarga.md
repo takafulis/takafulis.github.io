@@ -21,7 +21,7 @@ Untuk dapatkan dividen RM60,000 kita perlu menyimpan dalam Tabung Haji dengan ni
 
 RM1,000,000 x 6% = RM60,000 (dividen setahun)
 
-RM60,000 / 12 tahun = RM5,000 sebulan
+RM60,000 / 12 bulan = RM5,000 sebulan
 
 Mudahkan? Dengan RM1,000,000 dalam Tabung Haji, kita boleh jana RM5,000 sebulan tanpa henti setiap tahun kepada isteri dan anak-anak. Ok tak?
 
