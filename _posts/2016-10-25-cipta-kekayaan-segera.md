@@ -19,7 +19,7 @@ Bayangkan andai RM500 sebulan tadi dimasukkan ke TLSA, waris anda sudah mempunya
 
 Nota:
 
-1. RM100 adalah berdasarkan umur, pekerjaan dan status merokok atau tidak
+1. RM100 adalah berdasarkan umur, pekerjaan dan status merokok.
 
 2. Tempoh seminggu jika anda sihat tubuh badan dan tidak pernah dimasukkan ke dalam hospital. Jika pernah warded, akan mengambil masa lama sedikit.
 
