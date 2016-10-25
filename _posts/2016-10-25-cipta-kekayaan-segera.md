@@ -18,7 +18,9 @@ Berbanding pula jika anda menyertai insurans takaful TLSA, dengan RM100 sebulan 
 Bayangkan andai RM500 sebulan tadi dimasukkan ke TLSA, waris anda sudah mempunyai jaminan tunai RM1,000,000!!
 
 Nota:
+
 1. RM100 adalah berdasarkan umur, pekerjaan dan status merokok atau tidak
+
 2. Tempoh seminggu jika anda sihat tubuh badan dan tidak pernah dimasukkan ke dalam hospital. Jika pernah warded, akan mengambil masa lama sedikit.
 
 Jadi, tunggu apa lagi, jika anda sayang keluarga anda, tinggalkan harta pusaka tunai sekarang! 
