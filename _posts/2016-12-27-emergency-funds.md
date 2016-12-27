@@ -7,7 +7,9 @@ date: 2016-10-25
 
 # Promosi Emergency Funds RM350,000
 
-Daftar Hibah win-win untuk dapatkan emergency funds RM350,000 untuk tersayang apabila anda sudah tiada. Emergency fund ini dapat membantu mereka untuk meneruskan lifestyle sekarang ataupun untuk duit kemasukan universiti anak-anak kelak.
+Daftar Hibah win-win untuk dapatkan emergency funds RM350,000 untuk tersayang apabila anda sudah tiada.
+
+Emergency fund ini dapat membantu mereka untuk meneruskan lifestyle sekarang ataupun untuk duit kemasukan universiti anak-anak kelak.
 
 Promosi tamat pada 31/12/2016. 
 
