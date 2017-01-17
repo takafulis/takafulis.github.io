@@ -83,4 +83,4 @@ Jangan biarkan banker memilihkan Takaful untuk anda. Rumah anda, hak anda, walau
 
 Sila share jika bermanfaat untuk membongkar rahsia ini. Terima kasih.
 
-Untuk keterangan lanjut berkenaan MLTT atau Takaful, [SMS kami terus dengan klik link ini:] (http://takafulis.com/sms.html)
+Untuk keterangan lanjut berkenaan MLTT atau Takaful, [SMS kami terus dengan klik link ini:](http://takafulis.com/sms.html)
