@@ -105,6 +105,6 @@ MLTA/MLTT
 3. Coverage value TAK berkurang dari tahun ke tahun (Level term)
 4. Boleh ditukar dari satu harta ke harta yang lain.
 
-*Kalau tak faham lagi pasal MLTA/MLTT ni, boleh contact gua di [](http://takafulis.com/sms.html)
+*Kalau tak faham lagi pasal MLTA/MLTT ni, boleh contact gua di [http://takafulis.com/sms.html](http://takafulis.com/sms.html)
 
 Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
