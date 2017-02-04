@@ -1,5 +1,5 @@
 ---
-layout: default3
+layout: default4
 title: "Pencerahan MLTA/MLTT"
 description: "Sebelum membeli rumah, ketahui apa itu MLTA dan MLTT."
 date: 2017-01-26
@@ -94,17 +94,21 @@ Selepas 20 tahun, nilai pelaburannya (cash value) boleh mencecah RM102,000. Lagi
 Perbadingan:
 
 MRTA/MRTT
+
 1. Unrecoverable
 2. Takde cash value
 3. Coverage value berkurang dari tahun ke tahun (Reduced Term)
 4. Tidak boleh ditukar dari satu harta ke harta yang lain.
 
 MLTA/MLTT
+
 1. Recoverable
 2. Ada cash value
 3. Coverage value TAK berkurang dari tahun ke tahun (Level term)
 4. Boleh ditukar dari satu harta ke harta yang lain.
 
-*Kalau tak faham lagi pasal MLTA/MLTT ni, boleh contact gua di [http://takafulis.com/sms.html](http://takafulis.com/sms.html)
+Ikuti [kisah arwah En Zami yang mengambil MLTT dan memeranjatkan keluarganya.(klik sini)](http://takafulis.com/artikel/mltt)
+
+*Kalau tak faham lagi pasal MLTA/MLTT ni, boleh contact gua [http://takafulis.com/sms.html](http://takafulis.com/sms.html)
 
 Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
