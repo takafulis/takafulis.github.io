@@ -117,7 +117,6 @@ Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
     <div class="box">
         <a href="https://www.facebook.com/sharer/sharer.php?u=http://takafulis.com%2Fartikel%2Fpencerahan-mlta-mltt">
             <span class='share'>Share</span>
-            <span class='count'>0</span>
         </a>
     </div>
 </div>
