@@ -119,8 +119,6 @@ Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
                 <p class="icon">
                     <img src="/images/icon-facebook.png">
                 </p>
-
-                <p class="shares">0</p>
             </div>
         </a>
     </div>
