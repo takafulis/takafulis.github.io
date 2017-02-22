@@ -112,3 +112,12 @@ Ikuti [kisah arwah En Zami yang mengambil MLTT dan memeranjatkan keluarganya.(kl
 *Kalau tak faham lagi pasal MLTA/MLTT ni, boleh contact gua [http://takafulis.com/sms.html](http://takafulis.com/sms.html)
 
 Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
+
+<div class="share-button share-button-facebook" data-share-url="http://takafulis.com/artikel/pencerahan-mlta-mltt">
+    <div class="box">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=http://takafulis.com%2Fartikel%2Fpencerahan-mlta-mltt">
+            <span class='share'>Share</span>
+            <span class='count'>0</span>
+        </a>
+    </div>
+</div>
