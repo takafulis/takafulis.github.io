@@ -22,7 +22,9 @@ Adakah kepoweran medikel kad si mati masih berguna pada anak dan isteri?
 
 Adakah kepoweran medikel kad si mati masih boleh dipakai kalau anak masuk hospital?,
 
-Jawapannya sudah tentulah TIDAK. Dan ketika perkara ke 2 ini terjadi, maka hilanglah segala kebaikan medikel kad syarikat yang selama ini diberlagak dan dikerekkan kepada ejen ejen takaful macam kami.
+Jawapannya sudah tentulah TIDAK. 
+
+Dan ketika perkara ke 2 ini terjadi, maka hilanglah segala kebaikan medikel kad syarikat yang selama ini diberlagak dan dikerekkan kepada ejen ejen takaful macam kami.
 
 Sebagai retaliasinya, mereka bertanya pula,
 
@@ -36,7 +38,7 @@ Katakan satu keluarga ada ayah, ibu dan 3 orang anak. Dan si ayah ini otak dan h
 
 Sekiranya si ayah ini ditaqdirkan mati, katakanlah selepas 5 bulan bertakaful (contohnya, dia ambil RM1000/bulan x 5 bulan = RM5 ribu). Jumlah yuran yang sempat dibayar untuk 5 kepala selama 5 bulan adalah RM5 ribu.
 
-Sesungguhnya tuan puan, nilai RM1000 sebulan yuran Takaful ini akan diambil alih oleh pihak Takaful dan pembiayaan akan beterusan sehinggalah isteri mencapai umur 70 tahun, dan anak anak pula mencapai umur 25 tahun.
+Sesungguhnya tuan puan, nilai RM1000 sebulan yuran Takaful ini akan diambil alih oleh pihak Takaful dan pembiayaan akan berterusan sehinggalah isteri mencapai umur 70 tahun, dan anak anak pula mencapai umur 25 tahun.
 
 Sekarang beritahu kami, syarikat mana di Malaysia ini yang boleh tanggung RM1000 sebulan untuk pembiayaan medikel kad untuk anak isteri sampai berpuluh tahun lamanya?
 
@@ -46,7 +48,8 @@ Setahun cover dah RM12,000. Kalau masa si ayah ni mati umur isterinya baru 35 ta
 
 Cuba kira berapa puluh ribu yang Takaful akan tanggung untuk medikel kad dan segala pampasan lain?
 
-Satu medikel kad valuenya dalam RM1 juta - RM4 juta (nilai yang boleh di pakai. Macam limit keredit kad la.).
+Satu medikel kad valuenya dalam RM1 juta - RM4 juta 
+(nilai yang boleh di pakai. Macam limit keredit kad la.).
 
 Jadi, kalau emak 1 juta limit, anak anak sorang 1 juta limit. Pehhhh!!,
 
@@ -101,7 +104,7 @@ Renung renungkan...
 
 Kalau nak lebih penjelasan, macam biasa..whatsapp kami. Tekan link dibawah:
 
-https://is.gd/watakafulis
+(is.gd/watakafulis)[https://is.gd/watakafulis]
 https://is.gd/watakafulis
 https://is.gd/watakafulis
 
