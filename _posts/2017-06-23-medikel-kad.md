@@ -104,7 +104,11 @@ Renung renungkan...
 
 Kalau nak lebih penjelasan, macam biasa..whatsapp kami. Tekan link dibawah:
 
-<span style="background-color:yellow;">[https://is.gd/watakafulis](is.gd/watakafulis)</span>
+[is.gd/watakafulis](https://is.gd/watakafulis)
+
+<span style="background-color:yellow;">[is.gd/watakafulis](https://is.gd/watakafulis)</span>
+
+<span style="background-color:green;">[is.gd/watakafulis](https://is.gd/watakafulis)</span>
 
 
 Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
