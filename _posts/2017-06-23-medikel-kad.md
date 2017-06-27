@@ -94,7 +94,7 @@ Masalah bajet adalah masalah priority.
 
 Kalau bajetnya makan Tony Roma's seminggu sekali, memang lah tak cukup. Kalau bajetnya tengok wayang 3 x seminggu, boleh jadi juga tak cukup. 
 
-Jadi terpulang. Lalau hiburan, makanan dan pakaian berjenama itu lagi penting dari perlindungan diri dan kesihatan tubuh badan, silakan.
+Jadi terpulang. Kalau hiburan, makanan dan pakaian berjenama itu lagi penting dari perlindungan diri dan kesihatan tubuh badan, silakan.
 
 Namun ingin kami berikan sedikit pandangan, menyentuh soal bajet;
 
@@ -104,11 +104,11 @@ Renung renungkan...
 
 Kalau nak lebih penjelasan, macam biasa..whatsapp kami. Tekan link dibawah:
 
-[is.gd/watakafulis](https://is.gd/watakafulis)
+[011-1000 1321](https://is.gd/watakafulis)
 
-<span style="background-color:yellow;">[is.gd/watakafulis](https://is.gd/watakafulis)</span>
+<span style="background-color:yellow;">[011-1000 1321](https://is.gd/watakafulis)</span>
 
-<span style="background-color:green;">[is.gd/watakafulis](https://is.gd/watakafulis)</span>
+<span style="background-color:green;">[011-1000 1321](https://is.gd/watakafulis)</span>
 
 
 Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
