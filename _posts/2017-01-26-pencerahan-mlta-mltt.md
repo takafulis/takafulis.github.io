@@ -108,13 +108,7 @@ MLTA/MLTT
 4. Boleh ditukar dari satu harta ke harta yang lain.
 
 
-*Kalau tak faham lagi pasal MLTA/MLTT ni, boleh contact kami di:
-
-<span style="background-color:yellow;">[http://takafulis.com/sms.html](http://takafulis.com/sms.html)</span>
-
-[http://takafulis.com/sms.html](http://takafulis.com/sms.html)
-
-[http://takafulis.com/sms.html](http://takafulis.com/sms.html)
+*Kalau tak faham lagi pasal MLTA/MLTT ni, boleh chat dengan kami dengan klik butang chat warna biru sebelah ni yer. Kami tunggu. :)
 
 
 Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
