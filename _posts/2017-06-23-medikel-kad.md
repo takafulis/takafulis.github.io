@@ -102,14 +102,7 @@ Namun ingin kami berikan sedikit pandangan, menyentuh soal bajet;
 
 Renung renungkan...
 
-Kalau nak lebih penjelasan, macam biasa..whatsapp kami. Tekan link dibawah:
-
-[011-1000 1321](https://is.gd/watakafulis)
-
-<span style="background-color:yellow;">[011-1000 1321](https://is.gd/watakafulis)</span>
-
-<span style="background-color:green;">[011-1000 1321](https://is.gd/watakafulis)</span>
-
+Kalau nak lebih penjelasan, klik butang chat warna biru sebelah ni, kami akan response segera mungkin.
 
 Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
 
