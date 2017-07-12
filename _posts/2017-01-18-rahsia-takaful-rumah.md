@@ -1,5 +1,5 @@
 ---
-layout: default3
+layout: default4
 title: "Rahsia Takaful Untuk Rumah"
 description: "Sebelum membeli rumah, ketahui rahsia takaful yang tidak diberitahu oleh pihak bank."
 date: 2017-01-18
@@ -69,7 +69,7 @@ Dengan MLTT, Takaful akan bayar pampasan. Sebagai contoh, jika anda meminjam RM3
 
 Dengan MRTT, anda tak dapat pampasan. 
 
-Bayangkan, anda dapat penyakit kritikal, pihak majikan anda pula tidak memampu untuk meneruskan khidmat kerja anda kerana anda terpaksa MC selalu, tak ker pening anda nak mencari wang bayar bulanan pinjaman jika anda mengambil MRTT? 
+Bayangkan, anda terkena penyakit kritikal seperti cancer, pihak majikan anda pula tidak memampu untuk meneruskan khidmat kerja anda kerana anda terpaksa MC selalu, tak ker pening anda nak mencari wang bayar bulanan pinjaman jika anda mengambil MRTT? 
 
 Itu untungnya MLTT untuk anda memiliki rumah dan teruskan hidup dan juga menenangkan fikiran anda jika terkena penyakit. 
 
@@ -82,5 +82,19 @@ Untuk membeli rumah, modal anda kena besar. Sudah lama anda menyimpan mengumpul 
 Jangan biarkan banker memilihkan Takaful untuk anda. Rumah anda, hak anda, walaupun anda membuat pinjaman dengan bank.
 
 Sila share jika bermanfaat untuk membongkar rahsia ini. Terima kasih.
+
+Kalau nak mohon MLTT ini, klik butang chat warna biru sebelah ni, kami akan response segera mungkin.
+
+Proses approval tak lama, cuma ambil masa 3 hari bekerja sahaja. 
+
+   <div class="socialbutton-wrapper">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=http://takafulis.com%2Fartikel%2Fmedikel-kad">
+            <div class="socialbutton facebook" data-share-url="http://takafulis.com/artikel/medikel-kad">
+               <p class="icon">
+                    <img src="/images/iconfacebook.png" />
+               </p>
+            </div>
+        </a>
+    </div>
 
 Untuk keterangan lanjut berkenaan MLTT atau Takaful, [SMS kami terus dengan klik disini](http://takafulis.com/sms.html)
