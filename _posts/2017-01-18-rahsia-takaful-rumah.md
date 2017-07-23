@@ -87,8 +87,7 @@ Kalau nak mohon MLTT ini, klik butang chat warna biru sebelah ni, kami akan resp
 
 Proses approval tak lama, cuma ambil masa 3 hari bekerja sahaja. 
 
-Atau boleh juga terus message ke Facebook Page kami dibawah:<br/>
-	      (Pastikan anda sudah login Facebook)
+Atau boleh juga terus message ke Facebook Page kami dibawah:(Pastikan anda sudah login Facebook)
 
 <script>
       window.fbAsyncInit = function() {
@@ -116,8 +115,7 @@ Atau boleh juga terus message ke Facebook Page kami dibawah:<br/>
          data-small-header="true">
       <div class="fb-xfbml-parse-ignore">
         <blockquote>
-            <a href="https://m.me/takafulis/">Message Us</a>
-            </blockquote>
+        </blockquote>
       </div>
       </div>
      
