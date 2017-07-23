@@ -121,7 +121,9 @@ Atau boleh juga terus message ke Facebook Page kami dibawah:<br/>
             <a href="https://m.me/takafulis/">Message Us</a>
             </blockquote>
       </div>
-   <div class="socialbutton-wrapper">
+      </div>
+     
+   <div class="socialbutton-wrapper">
         <a href="https://www.facebook.com/sharer/sharer.php?u=http://takafulis.com%2Fartikel%2Fmedikel-kad">
             <div class="socialbutton facebook" data-share-url="http://takafulis.com/artikel/medikel-kad">
                <p class="icon">
