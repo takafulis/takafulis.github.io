@@ -89,8 +89,6 @@ Proses approval tak lama, cuma ambil masa 3 hari bekerja sahaja.
 
 Atau boleh juga terus message ke Facebook Page kami dibawah:<br/>
 	      (Pastikan anda sudah login Facebook)
-	      </p>
-    </div>
 
 <script>
       window.fbAsyncInit = function() {
