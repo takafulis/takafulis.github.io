@@ -87,6 +87,40 @@ Kalau nak mohon MLTT ini, klik butang chat warna biru sebelah ni, kami akan resp
 
 Proses approval tak lama, cuma ambil masa 3 hari bekerja sahaja. 
 
+Atau boleh juga terus message ke Facebook Page kami dibawah:<br/>
+	      (Pastikan anda sudah login Facebook)
+	      </p>
+    </div>
+
+<script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '95100348886',
+          xfbml      : true,
+          version    : 'v2.6'
+        });
+      };
+ 
+      (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+ 
+    <div class="fb-page" 
+         data-href="https://www.facebook.com/takafulis/" 
+         data-tabs="messages" 
+         data-width="400" 
+         data-height="300" 
+         data-small-header="true">
+      <div class="fb-xfbml-parse-ignore">
+        <blockquote>
+            <a href="https://m.me/takafulis/">Message Us</a>
+            </blockquote>
+      </div>
    <div class="socialbutton-wrapper">
         <a href="https://www.facebook.com/sharer/sharer.php?u=http://takafulis.com%2Fartikel%2Fmedikel-kad">
             <div class="socialbutton facebook" data-share-url="http://takafulis.com/artikel/medikel-kad">
@@ -96,5 +130,3 @@ Proses approval tak lama, cuma ambil masa 3 hari bekerja sahaja.
             </div>
         </a>
     </div>
-
-Untuk keterangan lanjut berkenaan MLTT atau Takaful, [SMS kami terus dengan klik disini](http://takafulis.com/sms.html)
