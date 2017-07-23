@@ -87,6 +87,7 @@ Kalau nak mohon MLTT ini, klik butang chat warna biru sebelah ni, kami akan resp
 
 Proses approval tak lama, cuma ambil masa 3 hari bekerja sahaja. 
 
+
    <div class="socialbutton-wrapper">
         <a href="https://www.facebook.com/sharer/sharer.php?u=http://takafulis.com%2Fartikel%2Frahsia-takaful-rumah">
             <div class="socialbutton facebook" data-share-url="http://takafulis.com/artikel/rahsia-takaful-rumah">
