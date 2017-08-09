@@ -94,9 +94,6 @@ Proses approval tak lama, cuma ambil masa 3 hari bekerja sahaja.
     <div class="fb-page" data-href="https://www.facebook.com/takafulis/" data-tabs="messages" data-width="360" data-height="400" data-small-header="true" data-hide-cover="true" data-show-facepile="false">
       <blockquote cite="https://www.facebook.com/takafulis/" class="fb-xfbml-parse-ignore"> </blockquote>
     </div>
-    <div class="fb-credit"> 
-      <a href="https://www.labnol.org/software/facebook-messenger-chat-widget/9583/" target="_blank">Facebook Chat Widget by Digital Inspiration</a>
-    </div>
     <div id="fb-root"></div>
   </div>
   <a href="https://m.me/digital.inspiration" title="Send us a message on Facebook" class="ctrlq fb-button"></a> 
