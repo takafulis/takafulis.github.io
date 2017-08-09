@@ -1,5 +1,5 @@
 ---
-layout: default4
+layout: default5
 title: "Rahsia Takaful Untuk Rumah"
 description: "Sebelum membeli rumah, ketahui rahsia takaful yang tidak diberitahu oleh pihak bank."
 date: 2017-01-18
@@ -87,12 +87,21 @@ Kalau nak mohon MLTT ini, klik butang chat warna biru sebelah ni, kami akan resp
 
 Proses approval tak lama, cuma ambil masa 3 hari bekerja sahaja. 
 
-   <div class="socialbutton-wrapper">
-        <a href="https://www.facebook.com/sharer/sharer.php?u=http://takafulis.com%2Fartikel%2Frahsia-takaful-rumahd">
-            <div class="socialbutton facebook" data-share-url="http://takafulis.com/artikel/rahsia-takaful-rumah">
-               <p class="icon">
-                    <img src="/images/iconfacebook.png" />
-               </p>
-            </div>
-        </a>
+<div class="fb-livechat">
+  <div class="ctrlq fb-overlay"></div>
+  <div class="fb-widget">
+    <div class="ctrlq fb-close"></div>
+    <div class="fb-page" data-href="https://www.facebook.com/takafulis/" data-tabs="messages" data-width="360" data-height="400" data-small-header="true" data-hide-cover="true" data-show-facepile="false">
+      <blockquote cite="https://www.facebook.com/takafulis/" class="fb-xfbml-parse-ignore"> </blockquote>
     </div>
+    <div class="fb-credit"> 
+      <a href="https://www.labnol.org/software/facebook-messenger-chat-widget/9583/" target="_blank">Facebook Chat Widget by Digital Inspiration</a>
+    </div>
+    <div id="fb-root"></div>
+  </div>
+  <a href="https://m.me/digital.inspiration" title="Send us a message on Facebook" class="ctrlq fb-button"></a> 
+</div>
+	
+<script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>$(document).ready(function(){var t={delay:125,overlay:$(".fb-overlay"),widget:$(".fb-widget"),button:$(".fb-button")};setTimeout(function(){$("div.fb-livechat").fadeIn()},8*t.delay),$(".ctrlq").on("click",function(e){e.preventDefault(),t.overlay.is(":visible")?(t.overlay.fadeOut(t.delay),t.widget.stop().animate({bottom:0,opacity:0},2*t.delay,function(){$(this).hide("slow"),t.button.show()})):t.button.fadeOut("medium",function(){t.widget.stop().show().animate({bottom:"30px",opacity:1},2*t.delay),t.overlay.fadeIn(t.delay)})})});</script>
