@@ -96,7 +96,7 @@ Proses approval tak lama, cuma ambil masa 3 hari bekerja sahaja.
     </div>
     <div id="fb-root"></div>
   </div>
-  <a href="https://m.me/digital.inspiration" title="Send us a message on Facebook" class="ctrlq fb-button"></a> 
+  <a href="https://m.me/takafulis" title="Send us a message on Facebook" class="ctrlq fb-button"></a> 
 </div>
 	
 <script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9"></script>
