@@ -11,7 +11,7 @@ Berapa ramai di sini yang dalam proses beli rumah?,
 
 Atau mempunyai kawan kawan, saudara mara yang sedang dalam proses beli rumah?,
 
-Berapa banyak yang kau orang dah stadi pasal skim perlindungan rumah?,
+Berapa banyak yang kau orang dah study pasal skim perlindungan rumah?,
 
 Berapa harga rumah?, 100k, 300k, 500k, sejuta-k?
 
