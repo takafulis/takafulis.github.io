@@ -108,7 +108,7 @@ MLTA/MLTT
 4. Boleh ditukar dari satu harta ke harta yang lain.
 
 
-*Kalau tak faham lagi pasal MLTA/MLTT ni, boleh chat dengan kami dengan klik butang chat warna biru sebelah ni yer. Kami tunggu. :)
+*Kalau tak faham lagi pasal MLTA/MLTT ni, boleh chat dengan kami dengan klik butang chat warna merah sebelah ni yer. Kami tunggu. :)
 
 
 Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
