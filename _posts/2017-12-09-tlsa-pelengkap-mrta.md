@@ -168,8 +168,8 @@ Pastikan anda menemui specialist TLSA anda dengan menghubungi kami di 011 1000 1
 Mohon share kan juga maklumat ini pada semua kawan kawan dan saudara mara.
 
    <div class="socialbutton-wrapper">
-        <a href="https://www.facebook.com/sharer/sharer.php?u=http://takafulis.com%2Fartikel%2Fpencerahan-mlta-mltt">
-            <div class="socialbutton facebook" data-share-url="http://takafulis.com/artikel/pencerahan-mlta-mltt">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=http://takafulis.com%2Fartikel%2Ftlsa-pelengkap-mrta">
+            <div class="socialbutton facebook" data-share-url="http://takafulis.com/artikel/tlsa-pelengkap-mrta">
                <p class="icon">
                     <img src="/images/iconfacebook.png" />
                </p>
