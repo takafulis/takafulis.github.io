@@ -14,7 +14,7 @@ layout: default5
 	{% endif %}
 
 {% if paginator.total_pages > 1 %}
-  <div class="paginator">
+  <div class="pagination">
         <a href="{% if paginator.previous_page == 1 %}/artikel/{% else %}{{ paginator.previous_page_path }}{% endif %}">
           &laquo;</a>
       {% for page in (1..paginator.total_pages) %}
