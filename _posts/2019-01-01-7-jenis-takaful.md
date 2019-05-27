@@ -5,7 +5,7 @@ description: "Ketahuilah jenis-jenis takaful yang perlu anda miliki."
 date: 2019-01-01
 ---
 
-# {{ post.title }}
+# 7 Jenis Perlindungan Takaful
 
 Kalau ikutkan setiap orang perlu ada 7 jenis perlindungan takaful. 
 
@@ -43,4 +43,4 @@ Dengan takaful, kesakitan atau kematian yang dialami kita insyaAllah tidak akan 
 
 Lindungilah kewangan anda dan legasi anda lekas supaya tenteram fikiran dan jiwa.  
 
-Untuk pelbagai informasi takaful, boleh ikuti channel t.me/naktahutakaful
+Untuk pelbagai informasi takaful, boleh ikuti channel [t.me/naktahutakaful]
