@@ -15,12 +15,8 @@ layout: default5
 
 {% if paginator.total_pages > 1 %}
   <div class="paginator">
-      <li class="page-item{% unless paginator.previous_page %} disabled{% endunless %}">
-        <a class="page-link" href="{% if paginator.previous_page == 1 %}/artikel/{% else %}{{ paginator.previous_page_path }}{% endif %}" aria-label="Previous">
-          <span aria-hidden="true">&laquo;</span>
-          <span class="sr-only">Previous</span>
-        </a>
-      </li>
+        <a href="{% if paginator.previous_page == 1 %}/artikel/{% else %}{{ paginator.previous_page_path }}{% endif %}">
+          &laquo;</a>
       {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
           <li class="page-item active"><a class="page-link" href="#">{{ page }} <span class="sr-only">(current)</span></a></li>
