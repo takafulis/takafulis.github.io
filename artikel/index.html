@@ -10,30 +10,3 @@ layout: default5
 	  {% endfor %}	
 	</ul>
 	
-{% if site.total_pages > 1 %}
-  <div class="text-xs-center">
-    <ul class="pagination pagination-sm">
-      <li class="page-item{% unless site.previous_page %} disabled{% endunless %}">
-        <a class="page-link" href="{% if site.previous_page == 1 %}/{% else %}{{ site.previous_page_path }}{% endif %}" aria-label="Previous">
-          <span aria-hidden="true">&laquo;</span>
-          <span class="sr-only">Previous</span>
-        </a>
-      </li>
-      {% for page in (1..site.total_pages) %}
-        {% if page == site.page %}
-          <li class="page-item active"><a class="page-link" href="#">{{ page }} <span class="sr-only">(current)</span></a></li>
-        {% elsif page == 1 %}
-          <li class="page-item"><a class="page-link" href="/blog/">1</a></li>
-        {% else %}
-          <li class="page-item"><a class="page-link" href="{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a></li>
-        {% endif %}
-      {% endfor %}
-      <li class="page-item{% unless site.next_page %} disabled{% endunless %}">
-        <a class="page-link" href="{% if site.next_page %}{{ site.next_page_path }}{% else %}#{% endif %}" aria-label="Next">
-          <span aria-hidden="true">&raquo;</span>
-          <span class="sr-only">Next</span>
-        </a>
-      </li>
-    </ul>
-  </div>
-{% endif %}
