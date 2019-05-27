@@ -21,7 +21,7 @@ layout: default5
         {% if page == paginator.page %}
           <a class="active" href="#">{{ page }}</a>
         {% elsif page == 1 %}
-          <a href="/artikel/">1</a>
+          <a href="/artikel/">{{ page }}</a>
         {% else %}
           <a href="{{ paginator.paginate_path | replace: ':num', page }}">{{ page }}</a>
         {% endif %}
