@@ -4,3 +4,5 @@ permalink: /artikel/:title
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
+paginate: 5
+paginate_path: '/artikel/ms/:num/'
