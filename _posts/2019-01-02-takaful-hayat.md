@@ -1,6 +1,6 @@
 ---
 layout: default4
-title: "Takaful hayat atau hibah"
+title: "Takaful Hayat atau Hibah"
 description: "Ketahui keperluan takaful hayat atau hibah kepada kita."
 date: 2019-01-02
 ---
