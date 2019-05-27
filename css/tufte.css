@@ -382,3 +382,5 @@ input[type=submit]:hover {
 }
 
 .pagination a:hover:not(.active) {background-color: #ddd;}
+
+.pagination a:link {background-color: #ddd;}
