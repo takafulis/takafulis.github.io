@@ -19,11 +19,11 @@ layout: default5
           &laquo;</a>
       {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
-          <a class="active" href="#">{{ page }} <span class="sr-only">(current)</span></a>
+          <a class="active" href="#">{{ page }}</a>
         {% elsif page == 1 %}
-          <li class="page-item"><a class="page-link" href="/artikel/">1</a></li>
+          <a href="/artikel/">1</a>
         {% else %}
-          <li class="page-item"><a class="page-link" href="{{ paginator.paginate_path | replace: ':num', page }}">{{ page }}</a></li>
+          <a href="{{ paginator.paginate_path | replace: ':num', page }}">{{ page }}</a>
         {% endif %}
       {% endfor %}
         <a href="{% if paginator.next_page %}{{ paginator.next_page_path }}{% else %}#{% endif %}">
