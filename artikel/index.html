@@ -14,8 +14,8 @@ layout: default5
 	{% endif %}
 
 {% if paginator.total_pages > 1 %}
-  <div class="text-xs-center">
-    <ul class="pagination pagination-sm">
+  <div>
+    <ul>
       <li class="page-item{% unless paginator.previous_page %} disabled{% endunless %}">
         <a class="page-link" href="{% if paginator.previous_page == 1 %}/blog/{% else %}{{ paginator.previous_page_path }}{% endif %}" aria-label="Previous">
           <span aria-hidden="true">&laquo;</span>
