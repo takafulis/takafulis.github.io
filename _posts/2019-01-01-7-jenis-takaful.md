@@ -43,4 +43,4 @@ Dengan takaful, kesakitan atau kematian yang dialami kita insyaAllah tidak akan 
 
 Lindungilah kewangan anda dan legasi anda lekas supaya tenteram fikiran dan jiwa.  
 
-Untuk pelbagai informasi takaful, boleh ikuti channel https://t.me/naktahutakaful
+Untuk pelbagai informasi takaful, boleh ikuti channel <https://t.me/naktahutakaful>
