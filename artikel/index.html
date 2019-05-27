@@ -15,7 +15,6 @@ layout: default5
 
 {% if paginator.total_pages > 1 %}
   <div>
-    <ul>
       <li class="page-item{% unless paginator.previous_page %} disabled{% endunless %}">
         <a class="page-link" href="{% if paginator.previous_page == 1 %}/artikel/{% else %}{{ paginator.previous_page_path }}{% endif %}" aria-label="Previous">
           <span aria-hidden="true">&laquo;</span>
@@ -37,6 +36,5 @@ layout: default5
           <span class="sr-only">Next</span>
         </a>
       </li>
-    </ul>
   </div>
 {% endif %}
