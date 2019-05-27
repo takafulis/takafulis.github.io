@@ -5,18 +5,24 @@ description: "Ketahuilah jenis-jenis takaful yang perlu anda miliki."
 date: 2019-01-01
 ---
 
-# {{ title }}
+# {{ post.title }}
 
 Kalau ikutkan setiap orang perlu ada 7 jenis perlindungan takaful. 
 
 Antaranya adalah:
 
 1) takaful hayat atau hibah
+
 2) takaful sakit kronik
+
 3) takaful perubatan
+
 4) takaful setel hutang
+
 5) takaful pendidikan
+
 6) takaful pencen
+
 7) takaful kemalangan
 
 Dan kebanyakan orang tak perasan pun mereka sudah ada hampir semua jenis perlindungan takaful ni. 
