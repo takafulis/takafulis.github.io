@@ -14,7 +14,7 @@ layout: default5
   <div class="text-xs-center">
     <ul class="pagination pagination-sm">
       <li class="page-item{% unless site.previous_page %} disabled{% endunless %}">
-        <a class="page-link" href="{% if site.previous_page == 1 %}/blog/{% else %}{{ site.previous_page_path }}{% endif %}" aria-label="Previous">
+        <a class="page-link" href="{% if site.previous_page == 1 %}/{% else %}{{ site.previous_page_path }}{% endif %}" aria-label="Previous">
           <span aria-hidden="true">&laquo;</span>
           <span class="sr-only">Previous</span>
         </a>
