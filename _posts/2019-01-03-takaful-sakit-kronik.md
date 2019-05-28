@@ -5,7 +5,7 @@ description: "Ketahuilah apa itu takaful sakit kronik atau sakit kritikal."
 date: 2019-01-03
 ---
 
-# {{title}}
+# {{page.title}}
 
 Takaful kedua penting adalah takaful sakit kronik atau sakit kritikal. 
 
